@@ -16,7 +16,7 @@ switch ($message){
         ];
         break;
 
-
+var_dump("hello");
 
     case 'видео':
         $method = 'sendVideo';
